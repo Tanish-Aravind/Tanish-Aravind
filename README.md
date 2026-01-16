@@ -1,5 +1,5 @@
 # Hi there, I'm Tanish Aravind 👋 
-### CSE Student @ VIT Vellore | GenAI & Full Stack Developer | ML Enthusiast
+### CSE Student @ VIT Vellore | Interested in Full Stack development | ML Enthusiast | GenAI
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tanish-aravind-25b100321/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
