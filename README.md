@@ -2,8 +2,8 @@
 ### CSE Student @ VIT Vellore | GenAI & Full Stack Developer | ML Enthusiast
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tanish-aravind-25b100321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:tanish.aravind7@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanish-aravind-25b100321/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:tanish.aravind7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -14,7 +14,7 @@ I am a Computer Science student at **VIT Vellore** with a deep interest in build
 - 🔭 **Currently Learning:** Advanced GenAI workflows and Agentic Frameworks.
 - ⚡ **Featured Project:** Developed an ML model to predict human age using **Cervical Bone** imagery for healthcare diagnostics.
 - 🤝 **Collaboration:** I'm actively looking for **Hackathon** teams and interesting Open Source projects!
-- 🎮 **Fun Fact:** When I'm not coding or researching, I'm usually building worlds in **Minecraft**.
+- 🎮 **Fun Fact:** When I'm not coding, I'm usually building in **Minecraft**.
 
 ---
 
@@ -34,16 +34,16 @@ I am a Computer Science student at **VIT Vellore** with a deep interest in build
 ### 📈 Activity & Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-GITHUB-USERNAME]&theme=nord" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=visionary&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-GITHUB-USERNAME]&theme=visionary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=nord" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=visionary" alt="Top Langs" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR-GITHUB-USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=[YOUR-GITHUB-USERNAME]&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
 </p>
