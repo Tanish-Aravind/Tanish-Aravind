@@ -29,8 +29,4 @@ I am a Computer Science student at **VIT Vellore** with a deep interest in build
 **Web Development**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR-GITHUB-USERNAME]&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
-</p>
