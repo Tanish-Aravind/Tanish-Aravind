@@ -14,7 +14,6 @@ I am a Computer Science student at **VIT Vellore** with a deep interest in build
 - 🔭 **Currently Learning:** Advanced GenAI workflows and Agentic Frameworks.
 - ⚡ **Featured Project:** Developed an ML model to predict human age using **Cervical Bone** imagery for healthcare diagnostics.
 - 🤝 **Collaboration:** I'm actively looking for **Hackathon** teams and interesting Open Source projects!
-- 🎮 **Fun Fact:** When I'm not coding, I'm usually building in **Minecraft**.
 
 ---
 
